@@ -12,6 +12,8 @@
     justify-content: center;
     justify-content: space-evenly;
     display: flex;
+     border: 2px,solid;
+    background-image: linear-gradient( rgb(39, 39, 87), rgb(226, 113, 113));
 }
  .container{
     background-color: aquamarine;
